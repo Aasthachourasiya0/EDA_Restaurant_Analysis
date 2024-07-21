@@ -133,7 +133,14 @@ The dataset includes various attributes of restaurants such as:
 
 ### 3. Price Range Distribution
 
-- **Price Range Distribution**: See `price_range_distribution.png`![Percentage of Restaurants by Price Range](https://github.com/user-attachments/assets/04fd3615-9705-406b-a67f-933f53552a7a)
+- **Price Range Distribution**:
+- Percentage of Restaurants by Price Range:
+        - 46.53%
+        - 32.59%
+        - 14.74%
+        - 6.14%
+
+ ![Percentage of Restaurants by Price Range](https://github.com/user-attachments/assets/04fd3615-9705-406b-a67f-933f53552a7a)
 
 
 ### 4. Online Delivery Impact
@@ -141,15 +148,13 @@ The dataset includes various attributes of restaurants such as:
 - **Restaurants Offering Online Delivery**: 52.3%
 - **Average Rating with Online Delivery**: 3.8
 - **Average Rating without Online Delivery**: 3.7
-- **Visual**: `average_ratings_online_delivery.png`
 ![average_ratings_online_delivery](https://github.com/user-attachments/assets/50b18906-3099-4381-b4dc-3ecb2137ae7c)
 
 ### 5. Rating Distribution
 
 - **Most Common Rating Range**: 3.5 - 4.0
 - **Average Number of Votes**: 200
-- **Visual**: `rating_distribution.png`![rating_distribution](https://github.com/user-attachments/assets/e146d7a0-d853-4383-bdb7-d17ceaa05c43)
-
+  ![rating_distribution](https://github.com/user-attachments/assets/e146d7a0-d853-4383-bdb7-d17ceaa05c43)
 
 ### 6. Cuisine Combinations
 
